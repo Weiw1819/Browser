@@ -29,8 +29,8 @@
 |猎豹浏览器|金山网络|-|
 |Yandex浏览器|日本|-|
 |Opera浏览器|昆仑万维|-|
-|Kiwi浏览器|开源|-|
-|狐猴浏览器|移动端|-|
+|Kiwi浏览器|-|开源|
+|狐猴浏览器|-|移动端|
 |火狐浏览器|-|https://github.com/mozilla-firefox/firefox|
 |水狐浏览器|-|https://github.com/BrowserWorks/waterfox|
 |Brave|美国|https://github.com/brave/brave-browser|
